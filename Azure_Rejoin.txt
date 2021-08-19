@@ -1,0 +1,3 @@
+dsregcmd /leave
+SCHTASKS.EXE /RUN /TN "Microsoft\Windows\Workplace Join\Automatic-Device-Join"
+shutdown /r
